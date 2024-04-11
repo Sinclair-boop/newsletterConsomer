@@ -16,6 +16,7 @@ spring:
     port: 587
     username: ngapoutfotso@gmail.com
     password: yourPassWord
+    passwords: yourPassWord
     properties:
       mail:
         smtp:
